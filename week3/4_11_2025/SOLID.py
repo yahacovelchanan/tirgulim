@@ -19,7 +19,7 @@ class Saved_to_list:
             
         
         
-book1=Book("er","op","kl") 
+
 
 
 class student:
@@ -70,8 +70,7 @@ class Rectangle(Shape):
     def area(self):
         return self.n * self.o    
 
-e1=Square(4) 
-print(e1.area())               
+             
                     
            
         
